@@ -127,3 +127,27 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Yona Requirements
+
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+/.idea
+*.idea
+*.xml
+**/*.xml
+*.iml
+*.weights
+*.log
+/*.log
+selenium/
+
+contraseñas.txt
+pass_.py
+
+.env
+*.hdf5
+*.h5
+*.parquet
+*.csv
